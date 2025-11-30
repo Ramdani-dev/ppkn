@@ -1565,5 +1565,1620 @@ const allQuestions = [
         correctAnswer: 2,
         rationale: "Tanpa Pancasila sebagai **Pandangan Hidup Bangsa** (*weltanschauung*), Indonesia tidak memiliki pedoman dan nilai-nilai keteladanan.",
         hint: "Fungsi Pancasila sebagai pedoman hidup."
+    },
+    // Lanjutan dari Soal sebelumnya (ID 1-120)
+    // --- ID 121 - 240 ---
+    
+    // MATERI 1: SEJARAH & PERUMUSAN PANCASILA (Lanjutan)
+    {
+        id: 121,
+        text: "Mr. Mohammad Yamin mengusulkan dasar negara pada tanggal 29 Mei 1945. Salah satu usulan yang ia sampaikan secara tertulis adalah....",
+        options: [
+            "Peri Ketuhanan",
+            "Mufakat atau Demokrasi",
+            "Kesejahteraan Sosial",
+            "Internasionalisme"
+        ],
+        correctAnswer: 0,
+        rationale: "Usulan tertulis Moh. Yamin mencakup Ketuhanan, Kebangsaan, Rasa Kemanusiaan, Kerakyatan, dan Keadilan Sosial.",
+        hint: "Usulan yang berbasis 'Peri'."
+    },
+    {
+        id: 122,
+        text: "Pidato Ir. Soekarno pada 1 Juni 1945 menyebut Pancasila sebagai **Philosofische Grondslag**. Istilah ini berarti....",
+        options: [
+            "Pandangan hidup bangsa",
+            "Dasar filsafat atau fundamen negara",
+            "Perjanjian luhur bangsa",
+            "Kepribadian bangsa"
+        ],
+        correctAnswer: 1,
+        rationale: "Philosofische Grondslag berarti dasar filsafat, fundamen, atau pikiran sedalam-dalamnya yang melandasi berdirinya negara.",
+        hint: "Fundamen untuk mendirikan gedung Indonesia merdeka."
+    },
+    {
+        id: 123,
+        text: "Meskipun berbeda pandangan (Nasionalis dan Islam), para pendiri bangsa akhirnya mencapai titik temu (kompromi) dalam Panitia Sembilan yang menghasilkan naskah....",
+        options: [
+            "Teks Proklamasi",
+            "UUD 1945",
+            "Piagam Jakarta",
+            "Dekrit Presiden"
+        ],
+        correctAnswer: 2,
+        rationale: "Piagam Jakarta adalah hasil kompromi antara golongan nasionalis dan Islam pada 22 Juni 1945.",
+        hint: "Naskah 22 Juni 1945."
+    },
+    {
+        id: 124,
+        text: "Perubahan frasa 'dengan kewajiban menjalankan syari’at Islam bagi pemeluk-pemeluknya' menjadi 'Ketuhanan Yang Maha Esa' diputuskan oleh PPKI atas usul....",
+        options: [
+            "Moh. Yamin",
+            "Drs. Moh. Hatta yang mendengar aspirasi dari Indonesia Timur",
+            "Ir. Soekarno",
+            "Mr. Soepomo"
+        ],
+        correctAnswer: 1,
+        rationale: "Drs. Moh. Hatta adalah yang menyampaikan keberatan wakil Indonesia Timur dan mengusulkan perubahan tersebut demi persatuan.",
+        hint: "Tokoh dari Sumatera yang berperan penting dalam kompromi 18 Agustus."
+    },
+    {
+        id: 125,
+        text: "Sikap Mr. Soepomo yang mengusulkan konsep negara integralistik dalam sidang BPUPK dilandasi oleh kekhawatiran terhadap....",
+        options: [
+            "Perang Dunia II",
+            "Sistem negara liberal dan individualis yang dapat memecah belah bangsa",
+            "Ancaman Jepang",
+            "Kekurangan sumber daya alam"
+        ],
+        correctAnswer: 1,
+        rationale: "Konsep integralistik Soepomo menolak gagasan negara yang memisahkan individu dengan negara (liberalisme), demi persatuan dan kesatuan.",
+        hint: "Menolak pemisahan individu dan negara."
+    },
+    {
+        id: 126,
+        text: "Faktor utama yang mendorong pembentukan Panitia Sembilan setelah sidang BPUPK pertama adalah....",
+        options: [
+            "Menyusun teks Proklamasi.",
+            "Merumuskan mukadimah UUD sebagai kompromi atas perbedaan dasar negara antara golongan Islam dan Nasionalis.",
+            "Menentukan anggota PPKI.",
+            "Mengubah nama Indonesia menjadi Republik."
+        ],
+        correctAnswer: 1,
+        rationale: "Panitia Sembilan dibentuk untuk merumuskan rancangan Pembukaan UUD sebagai solusi atas perdebatan rumusan dasar negara.",
+        hint: "Kompromi dua golongan besar."
+    },
+    
+    // MATERI 2: KEDUDUKAN & FUNGSI PANCASILA (Lanjutan)
+    {
+        id: 127,
+        text: "Pancasila sebagai **cita hukum** (*Rechtsidee*) bagi bangsa Indonesia berarti bahwa....",
+        options: [
+            "Hukum harus dibuat seberat mungkin.",
+            "Semua hukum harus mencerminkan nilai-nilai moral dan keadilan Pancasila.",
+            "Pancasila hanya berlaku di pengadilan.",
+            "Pancasila dapat diubah oleh Mahkamah Konstitusi."
+        ],
+        correctAnswer: 1,
+        rationale: "Cita hukum adalah ide tertinggi tentang keadilan, sehingga seluruh hukum harus dijiwai dan mencerminkan nilai-nilai moral Pancasila.",
+        hint: "Tujuan moral dan keadilan dari hukum."
+    },
+    {
+        id: 128,
+        text: "Perbedaan mendasar antara Pancasila sebagai **Ideologi Terbuka** dan Ideologi Tertutup terletak pada....",
+        options: [
+            "Pancasila berasal dari luar negeri, sedangkan ideologi tertutup dari dalam.",
+            "Pancasila bersifat dinamis, terbuka terhadap kritik, dan menghargai partisipasi, sedangkan ideologi tertutup dogmatis dan memaksakan nilai.",
+            "Pancasila tidak memiliki nilai-nilai dasar.",
+            "Pancasila dianut oleh semua negara."
+        ],
+        correctAnswer: 1,
+        rationale: "Ideologi terbuka bersifat luwes, adaptif, dan demokratis, berbeda dengan ideologi tertutup yang kaku, dogmatis, dan otoriter.",
+        hint: "Demokratis vs Dogmatis."
+    },
+    {
+        id: 129,
+        text: "Korupsi, kolusi, dan nepotisme (KKN) sangat bertentangan dengan Pancasila, khususnya Sila ke-5, karena....",
+        options: [
+            "KKN adalah bentuk kejahatan pribadi.",
+            "KKN menghambat pemerataan pembangunan dan keadilan sosial bagi seluruh rakyat.",
+            "KKN melanggar norma kesopanan.",
+            "KKN hanya terjadi di kota besar."
+        ],
+        correctAnswer: 1,
+        rationale: "KKN adalah perbuatan tidak adil yang merampas hak rakyat, sehingga sangat bertentangan dengan prinsip Keadilan Sosial.",
+        hint: "Konteks Keadilan Sosial dan pemerataan."
+    },
+    {
+        id: 130,
+        text: "Jika Indonesia menggunakan sistem negara sekuler, konsekuensinya adalah....",
+        options: [
+            "Semua warga wajib beragama.",
+            "Negara memisahkan urusan agama dari urusan publik dan pemerintahan.",
+            "Negara hanya mengakui satu agama resmi.",
+            "Warga negara dilarang menjalankan ibadah."
+        ],
+        correctAnswer: 1,
+        rationale: "Negara sekuler adalah negara yang memisahkan secara tegas urusan agama dan negara, berbeda dengan Indonesia yang mengakui Ketuhanan.",
+        hint: "Pemisahan agama dan politik."
+    },
+    {
+        id: 131,
+        text: "Pancasila sebagai **Dasar Negara** mewajibkan semua pejabat publik dan lembaga negara untuk....",
+        options: [
+            "Mengutamakan kepentingan partai.",
+            "Menjalankan tugas dan wewenang sesuai nilai-nilai dan moral Pancasila.",
+            "Hanya mengikuti peraturan internasional.",
+            "Bekerja tanpa pengawasan."
+        ],
+        correctAnswer: 1,
+        rationale: "Sebagai dasar negara, Pancasila menuntut penyelenggara negara menjunjung tinggi nilai-nilai yang terkandung di dalamnya.",
+        hint: "Implementasi pada aparatur negara."
+    },
+    {
+        id: 132,
+        text: "Pancasila mengandung **Dimensi Realitas** yang tinggi. Hal ini dibuktikan dengan....",
+        options: [
+            "Hanya menjadi mimpi para pendiri bangsa.",
+            "Diadopsi secara paksa dari ideologi asing.",
+            "Nilai-nilai Pancasila digali dan bersumber dari adat istiadat, kebudayaan, dan nilai religius bangsa Indonesia sendiri.",
+            "Sering diubah sesuai kepentingan penguasa."
+        ],
+        correctAnswer: 2,
+        rationale: "Dimensi realitas berarti nilai Pancasila hidup dan berakar dalam kehidupan nyata masyarakat Indonesia.",
+        hint: "Asal-usul nilai Pancasila dari budaya lokal."
+    },
+    
+    // MATERI 3: IMPLEMENTASI SILA PANCASILA (Lanjutan)
+    {
+        id: 133,
+        text: "Seorang siswa yang melakukan **tabayyun** (cek dan ricek kebenaran) sebelum menyebarkan informasi di media sosial, menunjukkan pengamalan Sila ke....",
+        options: [
+            "1 dan 2 (Kemanusiaan dan Beradab)",
+            "3 dan 4 (Persatuan dan Kerakyatan)",
+            "4 dan 5 (Kerakyatan dan Keadilan)",
+            "1 dan 3 (Ketuhanan dan Persatuan)"
+        ],
+        correctAnswer: 1,
+        rationale: "Menjaga kebenaran adalah bagian dari hikmat kebijaksanaan (Sila 4), dan mencegah perpecahan (hoaks) adalah bagian dari Persatuan (Sila 3).",
+        hint: "Bijak bermedia sosial menjaga persatuan dan akal sehat."
+    },
+    {
+        id: 134,
+        text: "Ketika seorang pejabat memilih bersikap **hidup sederhana** dan menjauhi kemewahan, ia mengamalkan butir Sila ke-5 yang bertujuan untuk....",
+        options: [
+            "Menunjukkan kekuatan.",
+            "Menghindari sikap pemerasan.",
+            "Memperlihatkan kesetiakawanan sosial dan tidak mencolok.",
+            "Mendapatkan pujian."
+        ],
+        correctAnswer: 2,
+        rationale: "Hidup sederhana adalah cerminan dari kesetiakawanan sosial dan keadilan, di mana kesenjangan sosial dihindari.",
+        hint: "Menjauhi ketidakadilan sosial."
+    },
+    {
+        id: 135,
+        text: "Gotong royong sebagai nilai luhur bangsa merupakan intisari dari sila-sila Pancasila. Gotong royong adalah **Ekasila** yang diusulkan oleh....",
+        options: [
+            "Moh. Hatta",
+            "Mr. Soepomo",
+            "Ir. Soekarno",
+            "Moh. Yamin"
+        ],
+        correctAnswer: 2,
+        rationale: "Ir. Soekarno dalam pidato 1 Juni 1945 mengatakan jika Pancasila diperas lagi, isinya adalah Trisila (Sosio-Nasionalisme, Sosio-Demokrasi, Ketuhanan), dan jika diperas lagi adalah Ekasila, yaitu Gotong Royong.",
+        hint: "Tokoh yang memeras Pancasila menjadi Ekasila."
+    },
+    {
+        id: 136,
+        text: "Sikap **fanatisme agama** yang berlebihan hingga memicu konflik SARA sangat bertentangan dengan....",
+        options: [
+            "Sila ke-4 (Kerakyatan)",
+            "Sila ke-1 (Ketuhanan) dan Sila ke-3 (Persatuan)",
+            "Sila ke-5 (Keadilan Sosial)",
+            "Sila ke-2 (Kemanusiaan)"
+        ],
+        correctAnswer: 1,
+        rationale: "Fanatisme yang merusak kerukunan melanggar toleransi (Sila 1) dan mengancam keutuhan bangsa (Sila 3).",
+        hint: "Merusak kerukunan dan keutuhan."
+    },
+    {
+        id: 137,
+        text: "Hak dan Kewajiban harus dilaksanakan secara seimbang. Tindakan menuntut hak tanpa melaksanakan kewajiban merupakan pelanggaran terhadap prinsip keadilan dalam Sila ke....",
+        options: [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        correctAnswer: 3,
+        rationale: "Keseimbangan antara hak dan kewajiban adalah prinsip utama dalam mencapai Keadilan Sosial.",
+        hint: "Keseimbangan dan keadilan."
+    },
+    {
+        id: 138,
+        text: "Dalam menghadapi perbedaan pandangan saat rapat, kita wajib menghormati pendapat anggota lain meskipun pendapatnya berbeda. Hal ini sesuai dengan prinsip....",
+        options: [
+            "Asas Desentralisasi",
+            "Asas Kekeluargaan dan Demokrasi (Sila 4)",
+            "Asas Integralistik",
+            "Asas Pembangunan Berkelanjutan"
+        ],
+        correctAnswer: 1,
+        rationale: "Menghormati pendapat adalah etika bermusyawarah yang esensial dalam Sila ke-4 (Kerakyatan).",
+        hint: "Sila musyawarah dan hikmat kebijaksanaan."
+    },
+    
+    // MATERI 4: NORMA DAN KONSTITUSI (Lanjutan)
+    {
+        id: 139,
+        text: "Asas dalam hierarki peraturan perundang-undangan yang menyatakan bahwa 'peraturan yang lebih baru mengesampingkan peraturan yang lama' adalah....",
+        options: [
+            "Lex Superior Derogat Legi Inferiori",
+            "Lex Specialis Derogat Legi Generali",
+            "Lex Posterior Derogat Legi Priori",
+            "Asas Keterbukaan"
+        ],
+        correctAnswer: 2,
+        rationale: "Lex Posterior Derogat Legi Priori berarti hukum yang baru mengalahkan hukum yang lama.",
+        hint: "Posterior = Baru, Priori = Lama."
+    },
+    {
+        id: 140,
+        text: "Peraturan yang dibentuk oleh Presiden untuk melaksanakan Undang-Undang sebagaimana mestinya adalah....",
+        options: [
+            "Peraturan Presiden (Perpres)",
+            "Peraturan Pemerintah (PP)",
+            "Keputusan Presiden (Keppres)",
+            "Instruksi Presiden (Inpres)"
+        ],
+        correctAnswer: 1,
+        rationale: "Peraturan Pemerintah (PP) adalah aturan turunan yang berfungsi melaksanakan UU.",
+        hint: "Pelaksana UU."
+    },
+    {
+        id: 141,
+        text: "Syarat utama agar sebuah peraturan perundang-undangan dapat dikatakan sah secara formal adalah....",
+        options: [
+            "Materi muatannya tebal.",
+            "Dibuat sesuai prosedur dan oleh lembaga yang berwenang (asas kewenangan).",
+            "Sudah disetujui Mahkamah Agung.",
+            "Isinya sesuai dengan semua kehendak rakyat."
+        ],
+        correctAnswer: 1,
+        rationale: "Keabsahan formal mensyaratkan peraturan dibuat oleh lembaga yang berwenang (kompeten) dan melalui prosedur yang ditetapkan.",
+        hint: "Prosedur dan Lembaga Pembuat."
+    },
+    {
+        id: 142,
+        text: "Kewajiban negara untuk menyelenggarakan sistem pendidikan nasional dan mengalokasikan minimal 20% APBN/APBD diatur dalam Pasal....",
+        options: [
+            "29",
+            "30",
+            "31",
+            "33"
+        ],
+        correctAnswer: 2,
+        rationale: "Pasal 31 UUD 1945 mengatur tentang hak dan kewajiban warga negara dan pemerintah di bidang pendidikan.",
+        hint: "Pasal Pendidikan."
+    },
+    {
+        id: 143,
+        text: "Hak warga negara untuk **memperoleh lingkungan hidup yang baik dan sehat** dijamin dalam UUD 1945, yang merupakan penjabaran dari Sila ke-....",
+        options: [
+            "2 dan 5",
+            "1 dan 3",
+            "4 dan 5",
+            "1 dan 2"
+        ],
+        correctAnswer: 0,
+        rationale: "Lingkungan hidup yang baik adalah hak asasi (Sila 2) dan merupakan bagian dari kesejahteraan/keadilan sosial (Sila 5).",
+        hint: "Hak Asasi dan Kesejahteraan."
+    },
+    {
+        id: 144,
+        text: "Dalam pembuatan Undang-Undang, asas yang mewajibkan adanya partisipasi publik dan keterbukaan akses informasi adalah asas....",
+        options: [
+            "Kejelasan rumusan",
+            "Keterbukaan",
+            "Kedayagunaan",
+            "Hierarki"
+        ],
+        correctAnswer: 1,
+        rationale: "Asas keterbukaan menjamin masyarakat berhak memberikan masukan dan mengetahui proses pembentukan peraturan.",
+        hint: "Transparansi dan partisipasi."
+    },
+    
+    // MATERI 5: ANALISIS KASUS DAN TANTANGAN (Lanjutan)
+    {
+        id: 145,
+        text: "Salah satu tantangan ideologi Pancasila di era digital adalah munculnya **radikalisme** yang penyebarannya melalui....",
+        options: [
+            "Media massa tradisional.",
+            "Kurikulum sekolah.",
+            "Media sosial dan internet yang tidak tersaring.",
+            "Ceramah di tempat ibadah."
+        ],
+        correctAnswer: 2,
+        rationale: "Penyebaran ideologi radikal saat ini sangat marak menggunakan platform digital dan media sosial.",
+        hint: "Penyebaran yang masif dan anonim."
+    },
+    {
+        id: 146,
+        text: "Gerakan **Revolusi Mental** yang dicanangkan pemerintah bertujuan untuk mengubah mentalitas negatif menjadi positif. Tiga nilai intinya adalah Integritas, Etos Kerja, dan....",
+        options: [
+            "Individualisme",
+            "Sentralisasi",
+            "Gotong Royong",
+            "Liberalisme"
+        ],
+        correctAnswer: 2,
+        rationale: "Tiga nilai utama Revolusi Mental adalah Integritas (bersih), Etos Kerja (produktif), dan Gotong Royong (kooperatif).",
+        hint: "Nilai luhur Ekasila."
+    },
+    {
+        id: 147,
+        text: "Hak dan kewajiban warga negara yang diatur dalam Pasal 30 UUD 1945 terkait dengan....",
+        options: [
+            "Kesehatan dan Jaminan Sosial.",
+            "Sistem Pertahanan dan Keamanan Negara.",
+            "Kemerdekaan berserikat.",
+            "Perekonomian nasional."
+        ],
+        correctAnswer: 1,
+        rationale: "Pasal 30 mengatur tentang hak dan kewajiban warga negara dalam usaha pertahanan dan keamanan negara (Sishankamrata).",
+        hint: "TNI dan Polri."
+    },
+    {
+        id: 148,
+        text: "Sikap **individualisme** dan **hedonisme** yang masuk bersama globalisasi paling kuat bertentangan dengan Sila ke-....",
+        options: [
+            "1 dan 3",
+            "2 dan 4",
+            "3 dan 5",
+            "4 dan 5"
+        ],
+        correctAnswer: 2,
+        rationale: "Individualisme mengancam Persatuan (Sila 3), sedangkan hedonisme (kemewahan) mengancam Keadilan Sosial dan kesederhanaan (Sila 5).",
+        hint: "Ancaman terhadap persatuan dan kesederhanaan."
+    },
+    {
+        id: 149,
+        text: "Lembaga negara yang bertugas menjaga kemurnian Pancasila dan ketaatan semua lembaga negara terhadap Konstitusi (UUD 1945) adalah....",
+        options: [
+            "Mahkamah Agung (MA)",
+            "Komisi Pemberantasan Korupsi (KPK)",
+            "Majelis Permusyawaratan Rakyat (MPR)",
+            "Mahkamah Konstitusi (MK)"
+        ],
+        correctAnswer: 3,
+        rationale: "Mahkamah Konstitusi (MK) adalah penjaga konstitusi yang menguji UU terhadap UUD, memastikan semua peraturan di bawahnya tidak menyimpang dari Pancasila dan UUD 1945.",
+        hint: "Penjaga Konstitusi (Judicial Review)."
+    },
+    {
+        id: 150,
+        text: "Prinsip **politik luar negeri bebas aktif** yang dianut Indonesia mengandung makna....",
+        options: [
+            "Bebas dari utang, aktif mencari keuntungan.",
+            "Tidak memihak blok manapun, namun aktif berkontribusi dalam perdamaian dunia.",
+            "Bebas menentukan nasib negara lain, aktif menjajah.",
+            "Bebas melakukan perang, aktif membantu sekutu."
+        ],
+        correctAnswer: 1,
+        rationale: "Bebas berarti tidak terikat pada blok manapun, Aktif berarti berpartisipasi dalam mewujudkan ketertiban dunia (sesuai Alinea IV Pembukaan UUD 1945).",
+        hint: "Bebas (netral) dan Aktif (berkontribusi)."
+    },
+    
+    // Soal Analisis Lanjutan (C3/C4)
+    {
+        id: 151,
+        text: "Jika Indonesia kembali ke rumusan Piagam Jakarta, terutama sila pertama yang menyebut syariat Islam, konsekuensi terburuk bagi bangsa adalah....",
+        options: [
+            "Peningkatan jumlah umat Islam.",
+            "Timbulnya disintegrasi bangsa karena perpecahan SARA, terutama di wilayah non-Muslim.",
+            "Penguatan ekonomi nasional.",
+            "Meningkatnya toleransi."
+        ],
+        correctAnswer: 1,
+        rationale: "Perubahan sila pertama pada 18 Agustus 1945 dilakukan untuk mencegah perpecahan dan menjaga persatuan bangsa (disintegrasi), terutama di Indonesia Timur.",
+        hint: "Alasan penghapusan tujuh kata demi keutuhan."
+    },
+    {
+        id: 152,
+        text: "Soekarno memeras Pancasila menjadi Ekasila (**Gotong Royong**). Hal ini menunjukkan bahwa....",
+        options: [
+            "Pancasila dapat diubah kapan saja.",
+            "Nilai kerjasama dan kekeluargaan merupakan esensi dan roh fundamental dari Pancasila.",
+            "Sila Ketuhanan adalah yang paling utama.",
+            "Gotong royong lebih tinggi kedudukannya dari Pancasila."
+        ],
+        correctAnswer: 1,
+        rationale: "Gotong royong dianggap sebagai roh karena mencerminkan cara hidup asli bangsa Indonesia yang mengutamakan kekeluargaan dan kerjasama dalam mencapai kebaikan bersama.",
+        hint: "Esensi Pancasila yang paling khas."
+    },
+    {
+        id: 153,
+        text: "Ketika seorang anggota DPR menggunakan hak angket untuk menyelidiki kebijakan pemerintah, ia sedang menjalankan fungsi....",
+        options: [
+            "Legislasi",
+            "Anggaran",
+            "Pengawasan (Kontrol)",
+            "Yudikatif"
+        ],
+        correctAnswer: 2,
+        rationale: "Hak angket adalah salah satu hak DPR untuk melakukan penyelidikan terhadap pelaksanaan undang-undang atau kebijakan pemerintah, yang termasuk fungsi pengawasan.",
+        hint: "Fungsi kontrol terhadap eksekutif."
+    },
+    {
+        id: 154,
+        text: "Ancaman **perang siber** atau serangan digital terhadap infrastruktur vital negara merupakan tantangan terhadap Sila ke-3 karena....",
+        options: [
+            "Melanggar norma kesusilaan.",
+            "Mengancam kedaulatan, stabilitas nasional, dan persatuan ekonomi bangsa.",
+            "Hanya merugikan individu.",
+            "Menguntungkan pihak asing."
+        ],
+        correctAnswer: 1,
+        rationale: "Serangan siber mengancam keutuhan dan stabilitas negara, yang merupakan hakikat dari Persatuan Indonesia.",
+        hint: "Ancaman terhadap kedaulatan digital."
+    },
+    {
+        id: 155,
+        text: "Dalam konteks Pancasila, prinsip **Bhinneka Tunggal Ika** mengandung makna bahwa....",
+        options: [
+            "Perbedaan harus dihilangkan untuk mencapai kesatuan.",
+            "Keragaman suku, agama, dan budaya diakui, namun tetap satu dalam identitas bangsa.",
+            "Hanya suku mayoritas yang berhak memimpin.",
+            "Perbedaan adalah pemisah."
+        ],
+        correctAnswer: 1,
+        rationale: "Bhinneka Tunggal Ika berarti berbeda-beda (keragaman) tetapi pada hakikatnya tetap satu (kesatuan).",
+        hint: "Semboyan pemersatu."
+    },
+    
+    // Soal Analisis Kasus Hukum dan Norma
+    {
+        id: 156,
+        text: "Seorang siswa berinisiatif membentuk kelompok belajar dan berbagi materi dengan teman-temannya tanpa memandang nilai. Sikap ini paling mencerminkan pengamalan Sila ke....",
+        options: [
+            "1 dan 2",
+            "3 dan 5",
+            "4 dan 5",
+            "1 dan 4"
+        ],
+        correctAnswer: 1,
+        rationale: "Inisiatif belajar bersama (gotong royong/kebersamaan) adalah Persatuan (Sila 3), dan berbagi tanpa diskriminasi adalah Keadilan Sosial (Sila 5).",
+        hint: "Gotong royong dan adil."
+    },
+    {
+        id: 157,
+        text: "Jika norma hukum di suatu daerah melarang kegiatan seni budaya lokal tertentu, maka norma hukum tersebut berpotensi melanggar hak konstitusional warga negara, yaitu hak....",
+        options: [
+            "Mendapat pendidikan.",
+            "Beragama.",
+            "Memajukan kebudayaan nasional (Pasal 32).",
+            "Memperoleh pekerjaan."
+        ],
+        correctAnswer: 2,
+        rationale: "Pasal 32 UUD 1945 menjamin negara memajukan kebudayaan nasional, sehingga pelarangan budaya lokal melanggar hak ini.",
+        hint: "Pasal Kebudayaan."
+    },
+    {
+        id: 158,
+        text: "Masyarakat menolak pembangunan pabrik yang mencemari lingkungan. Tindakan ini merupakan perwujudan ketaatan terhadap norma....",
+        options: [
+            "Hukum (Pasal 28H tentang lingkungan sehat) dan Norma Kesusilaan (moral menjaga alam).",
+            "Agama saja.",
+            "Kesopanan saja.",
+            "Adat saja."
+        ],
+        correctAnswer: 0,
+        rationale: "Menjaga lingkungan adalah kewajiban hukum (UUD Pasal 28H) dan juga kewajiban moral/kesusilaan (moralitas universal).",
+        hint: "Dasar hukum dan moralitas."
+    },
+    {
+        id: 159,
+        text: "Sanksi sosial berupa **pengucilan** dari lingkungan masyarakat adalah sanksi yang utama bagi pelanggar norma....",
+        options: [
+            "Hukum",
+            "Agama",
+            "Kesusilaan",
+            "Kesopanan"
+        ],
+        correctAnswer: 3,
+        rationale: "Norma Kesopanan memiliki sanksi non-fisik berupa cemoohan, teguran, atau dikucilkan oleh masyarakat.",
+        hint: "Sanksi bersifat sosial."
+    },
+    {
+        id: 160,
+        text: "Pengakuan dan penjaminan hak asasi manusia (HAM) dalam UUD 1945 (Bab XA) adalah penjabaran dari nilai instrumental Pancasila, khususnya Sila ke-....",
+        options: [
+            "1 dan 3",
+            "2 dan 5",
+            "3 dan 4",
+            "4 dan 5"
+        ],
+        correctAnswer: 1,
+        rationale: "HAM (hak dasar manusia) adalah inti dari Sila Kemanusiaan yang Adil dan Beradab (Sila 2) dan Keadilan Sosial (Sila 5).",
+        hint: "Martabat dan Kesejahteraan."
+    },
+    
+    // Soal Tambahan - Mengulang Indikator per 3 Soal
+    
+    // MATERI 1: SEJARAH PERUMUSAN PANCASILA (Lanjutan)
+    
+    {
+        id: 161,
+        text: "Alasan strategis utama penghapusan tujuh kata dalam Piagam Jakarta adalah untuk....",
+        options: [
+            "Memenuhi tuntutan Sekutu.",
+            "Menciptakan kesatuan nasional dan mencegah disintegrasi dari Indonesia Timur.",
+            "Mengubah ideologi negara menjadi sekuler.",
+            "Mempercepat proklamasi kemerdekaan."
+        ],
+        correctAnswer: 1,
+        rationale: "Penghapusan tujuh kata adalah langkah politik yang sangat strategis demi keutuhan wilayah RI yang baru diproklamasikan.",
+        hint: "Mencegah pecah belah."
+    },
+    {
+        id: 162,
+        text: "Naskah Piagam Jakarta disahkan oleh Panitia Sembilan pada tanggal....",
+        options: [
+            "1 Juni 1945",
+            "22 Juni 1945",
+            "17 Agustus 1945",
+            "18 Agustus 1945"
+        ],
+        correctAnswer: 1,
+        rationale: "Piagam Jakarta disahkan oleh Panitia Sembilan pada 22 Juni 1945.",
+        hint: "Tanggal 22 Juni."
+    },
+    {
+        id: 163,
+        text: "Jika Indonesia tetap menggunakan rumusan sila pertama Piagam Jakarta ('Ketuhanan, dengan kewajiban menjalankan syari’at Islam bagi pemeluk-pemeluknya'), maka Indonesia akan menjadi negara....",
+        options: [
+            "Sekuler",
+            "Islam (Negara Agama)",
+            "Federal",
+            "Kesatuan yang demokratis"
+        ],
+        correctAnswer: 1,
+        rationale: "Rumusan awal tersebut mengandung unsur teokratis atau negara agama yang berbasis Islam.",
+        hint: "Implikasi syariat Islam dalam konstitusi."
+    },
+    
+    {
+        id: 164,
+        text: "Selain Pancasila, Ir. Soekarno juga menawarkan konsep Trisila dan Ekasila. Konsep Ekasila yang ia usulkan adalah....",
+        options: [
+            "Sosio-Nasionalisme",
+            "Sosio-Demokrasi",
+            "Ketuhanan",
+            "Gotong Royong"
+        ],
+        correctAnswer: 3,
+        rationale: "Ekasila adalah hasil perasan dari Trisila, yaitu Gotong Royong.",
+        hint: "Intisari dari intisari Pancasila."
+    },
+    {
+        id: 165,
+        text: "Soekarno menekankan bahwa Pancasila harus menjadi **Weltanschauung**. Hal ini berarti Pancasila adalah....",
+        options: [
+            "Dasar hukum tertinggi.",
+            "Pandangan hidup yang dijiwai oleh nilai-nilai luhur bangsa.",
+            "Keputusan mayoritas.",
+            "Sistem pertahanan negara."
+        ],
+        correctAnswer: 1,
+        rationale: "Weltanschauung berarti pandangan dunia atau pandangan hidup bangsa.",
+        hint: "Cara pandang dan pedoman."
+    },
+    {
+        id: 166,
+        text: "Langkah-langkah yang diusulkan Soekarno dalam pidato 1 Juni 1945 untuk menyusun dasar negara adalah....",
+        options: [
+            "Membentuk MPR, DPR, dan MK.",
+            "Mendirikan negara dengan lima prinsip: Kebangsaan, Kemanusiaan, Mufakat, Kesejahteraan Sosial, dan Ketuhanan.",
+            "Mengadakan pemilu secara langsung.",
+            "Mengubah sistem pemerintahan menjadi monarki."
+        ],
+        correctAnswer: 1,
+        rationale: "Soekarno mengusulkan lima sila: Kebangsaan Indonesia, Internasionalisme atau Peri Kemanusiaan, Mufakat atau Demokrasi, Kesejahteraan Sosial, dan Ketuhanan Yang Maha Esa/Berkebudayaan.",
+        hint: "Lima prinsip Soekarno."
+    },
+    
+    {
+        id: 167,
+        text: "Perbedaan mendasar antara usulan dasar negara Moh. Yamin dan Ir. Soekarno terletak pada....",
+        options: [
+            "Yamin mengusulkan Ketuhanan berbudaya, Soekarno mengusulkan Ketuhanan berkebudayaan.",
+            "Yamin mengusulkan 'Peri', Soekarno mengusulkan 'Sila'.",
+            "Soekarno menekankan Gotong Royong, Yamin menekankan Keadilan Sosial.",
+            "Yamin mengusulkan tertulis, Soekarno lisan."
+        ],
+        correctAnswer: 1,
+        rationale: "Yamin menggunakan frasa 'Peri' (Peri Kebangsaan, Peri Kemanusiaan, dsb), sementara Soekarno menggunakan istilah 'Sila'.",
+        hint: "Perbedaan penggunaan awalan kata."
+    },
+    {
+        id: 168,
+        text: "Salah satu ciri utama negara integralistik yang diusulkan Mr. Soepomo adalah....",
+        options: [
+            "Mengutamakan hak individu di atas segalanya.",
+            "Negara adalah kesatuan yang mengatasi segala golongan, dengan pemimpin bersatu dengan rakyat.",
+            "Pemisahan kekuasaan secara tegas (trias politica).",
+            "Pembentukan negara federal."
+        ],
+        correctAnswer: 1,
+        rationale: "Integralistik adalah konsep negara yang menyatu antara pemimpin dan rakyat, mengatasi kelompok-kelompok individualis.",
+        hint: "Persatuan seluruh elemen."
+    },
+    {
+        id: 169,
+        text: "Meskipun memiliki latar belakang pendidikan yang berbeda (hukum, teknik, sosial), persamaan semangat yang dimiliki oleh para pendiri bangsa adalah....",
+        options: [
+            "Keinginan untuk menjadi negara adidaya.",
+            "Semangat untuk mencapai kemerdekaan dan mewujudkan negara kesatuan yang merdeka, berdaulat, adil, dan makmur.",
+            "Keinginan untuk mengadopsi sistem negara Barat sepenuhnya.",
+            "Menolak semua intervensi asing."
+        ],
+        correctAnswer: 1,
+        rationale: "Semua pendiri bangsa memiliki cita-cita yang sama, yaitu mewujudkan Indonesia merdeka yang berdaulat dan sejahtera.",
+        hint: "Cita-cita Proklamasi."
+    },
+    
+    {
+        id: 170,
+        text: "Tugas utama PPKI setelah dibentuk adalah....",
+        options: [
+            "Mengadakan perundingan dengan Belanda.",
+            "Mempersiapkan segala hal yang diperlukan untuk pembentukan negara (mengubah UUD, memilih Presiden/Wapres, menetapkan Komite Nasional).",
+            "Menyusun teks Sumpah Pemuda.",
+            "Menghentikan Perang Dunia II."
+        ],
+        correctAnswer: 1,
+        rationale: "PPKI (Panitia Persiapan Kemerdekaan Indonesia) bertugas menyiapkan dan mengesahkan perangkat negara yang diperlukan.",
+        hint: "Fungsinya adalah 'Persiapan Kemerdekaan'."
+    },
+    {
+        id: 171,
+        text: "Sidang PPKI pada 18 Agustus 1945 menghasilkan tiga keputusan penting, salah satunya adalah....",
+        options: [
+            "Pembentukan Tentara Nasional Indonesia (TNI).",
+            "Pengesahan UUD NRI Tahun 1945.",
+            "Pembacaan Teks Proklamasi.",
+            "Pembubaran BPUPK."
+        ],
+        correctAnswer: 1,
+        rationale: "Tiga hasil sidang PPKI: 1) Mengesahkan UUD 1945, 2) Memilih Ir. Soekarno dan Drs. Moh. Hatta sebagai Presiden dan Wakil Presiden, 3) Pembentukan Komite Nasional.",
+        hint: "Hari setelah Proklamasi."
+    },
+    {
+        id: 172,
+        text: "Tokoh yang menjabat sebagai Wakil Ketua BPUPK (seorang warga negara Jepang) adalah....",
+        options: [
+            "Dr. Radjiman Wedyodiningrat",
+            "Mr. Soepomo",
+            "Ichibangase Yosio",
+            "Soekarno"
+        ],
+        correctAnswer: 2,
+        rationale: "Ketua BPUPK adalah Radjiman Wedyodiningrat, didampingi Wakil Ketua R.P. Soeroso dan Ichibangase Yosio (Jepang).",
+        hint: "Wakil dari pihak Jepang."
+    },
+    
+    {
+        id: 173,
+        text: "Salah satu anggota Panitia Sembilan yang mewakili golongan Nasionalis adalah....",
+        options: [
+            "KH. Wahid Hasyim",
+            "Mr. Moh. Yamin",
+            "Mr. A.A. Maramis",
+            "Ki Bagus Hadikusumo"
+        ],
+        correctAnswer: 2,
+        rationale: "AA Maramis adalah salah satu dari 5 tokoh Nasionalis dalam Panitia Sembilan (Soekarno, Hatta, Yamin, Soebardjo, Maramis).",
+        hint: "Tokoh dari Indonesia Timur."
+    },
+    {
+        id: 174,
+        text: "Peran Panitia Sembilan menjadi sangat penting dalam sejarah perumusan Pancasila karena mereka bertugas sebagai....",
+        options: [
+            "Penyusun naskah pembukaan UUD yang memuat dasar negara.",
+            "Pemimpin perang melawan Sekutu.",
+            "Penentu jumlah anggota PPKI.",
+            "Penyelenggara Pemilu pertama."
+        ],
+        correctAnswer: 0,
+        rationale: "Tugas mereka adalah merumuskan rancangan Pembukaan UUD (Piagam Jakarta) yang berisi rumusan dasar negara.",
+        hint: "Perumus Piagam Jakarta."
+    },
+    {
+        id: 175,
+        text: "Yang **bukan** merupakan hasil kompromi antara golongan Nasionalis dan Islam dalam Piagam Jakarta adalah....",
+        options: [
+            "Pernyataan 'Indonesia merdeka' (Nasionalis).",
+            "Sila Ketuhanan dengan tujuh kata (Islam).",
+            "Frasa 'dengan berdasar kepada ketuhanan' (Kompromi Ketuhanan).",
+            "Pembentukan negara Republik (Kompromi bentuk negara)."
+        ],
+        correctAnswer: 2,
+        rationale: "Frasa 'dengan berdasar kepada ketuhanan' tidak terdapat dalam Piagam Jakarta. Piagam Jakarta memuat tujuh kata kontroversial pada sila pertama.",
+        hint: "Cari frasa yang tidak ada dalam Piagam Jakarta."
+    },
+    
+    // MATERI 2: KEDUDUKAN & FUNGSI PANCASILA (Lanjutan)
+    
+    {
+        id: 176,
+        text: "Pancasila sebagai dasar negara memiliki makna yuridis bahwa....",
+        options: [
+            "Pancasila dapat diubah oleh MPR.",
+            "Semua hukum positif di Indonesia harus berlandaskan dan bersumber dari Pancasila.",
+            "Pancasila hanya simbol tanpa kekuatan hukum.",
+            "Pancasila hanya berlaku bagi umat beragama."
+        ],
+        correctAnswer: 1,
+        rationale: "Makna yuridis (hukum) Pancasila sebagai dasar negara adalah kedudukannya sebagai norma dasar (*Grundnorm*) dan sumber dari segala sumber hukum.",
+        hint: "Konteks hukum dan perundang-undangan."
+    },
+    {
+        id: 177,
+        text: "Jika suatu Peraturan Pemerintah (PP) bertentangan dengan Pancasila, maka PP tersebut harus....",
+        options: [
+            "Tetap dilaksanakan.",
+            "Dibiarkan saja.",
+            "Diuji materi ke Mahkamah Agung dan dibatalkan.",
+            "Diubah oleh DPR."
+        ],
+        correctAnswer: 2,
+        rationale: "Semua peraturan di bawah UUD 1945 harus diuji materi ke MA jika bertentangan dengan Pancasila (melalui UUD 1945).",
+        hint: "Uji materi ke MA."
+    },
+    {
+        id: 178,
+        text: "Pancasila sebagai 'Meja Statis' mengandung makna....",
+        options: [
+            "Tempat untuk duduk.",
+            "Prinsip-prinsip dasar yang kokoh dan abadi yang menyatukan bangsa.",
+            "Aturan yang kaku dan tidak dapat diubah.",
+            "Hukum yang bersifat dinamis."
+        ],
+        correctAnswer: 1,
+        rationale: "Meja Statis berarti dasar yang kokoh dan tidak bergerak (abadi) yang menjadi pijakan seluruh elemen bangsa.",
+        hint: "Dasar yang kokoh dan abadi."
+    },
+    
+    {
+        id: 179,
+        text: "Pancasila sebagai pandangan hidup bangsa (*Weltanschauung*) diwujudkan dalam kehidupan sehari-hari melalui....",
+        options: [
+            "Pengesahan Undang-Undang.",
+            "Perilaku, etika, dan nilai moral individu dalam interaksi sosial.",
+            "Pemilihan umum.",
+            "Pemberian sanksi pidana."
+        ],
+        correctAnswer: 1,
+        rationale: "Pandangan hidup adalah cerminan nilai-nilai dalam sikap dan perilaku masyarakat.",
+        hint: "Konteks moral dan sosial."
+    },
+    {
+        id: 180,
+        text: "Mengapa Pancasila disebut sebagai pandangan hidup bangsa?",
+        options: [
+            "Karena Pancasila dicetuskan pertama kali di luar negeri.",
+            "Karena Pancasila memberi arah, pedoman, dan motivasi bagi bangsa Indonesia dalam mencapai cita-cita.",
+            "Karena Pancasila hanya berlaku untuk kaum elite.",
+            "Karena Pancasila adalah aturan agama."
+        ],
+        correctAnswer: 1,
+        rationale: "Pandangan hidup berfungsi sebagai petunjuk arah dan motivasi untuk mencapai cita-cita bangsa.",
+        hint: "Fungsi petunjuk arah."
+    },
+    {
+        id: 181,
+        text: "Perwujudan Pancasila sebagai pandangan hidup dalam bidang ekonomi adalah....",
+        options: [
+            "Sistem kapitalisme mutlak.",
+            "Prinsip kebebasan berusaha tanpa batas.",
+            "Sistem ekonomi kerakyatan dan kekeluargaan (koperasi).",
+            "Sistem ekonomi komando."
+        ],
+        correctAnswer: 2,
+        rationale: "Sistem ekonomi yang sesuai pandangan hidup Pancasila adalah ekonomi kerakyatan, contohnya koperasi (Pasal 33 UUD 1945).",
+        hint: "Ekonomi yang berbasis kekeluargaan."
+    },
+    
+    {
+        id: 182,
+        text: "Dimensi **fleksibilitas** dalam ideologi Pancasila berarti....",
+        options: [
+            "Pancasila dapat diubah kapan saja.",
+            "Pancasila memiliki keterbukaan untuk dikembangkan sesuai kebutuhan zaman, asalkan tidak menyimpang dari nilai dasarnya.",
+            "Pancasila hanya berlaku di era Orde Baru.",
+            "Pancasila kaku dan tidak bisa dikembangkan."
+        ],
+        correctAnswer: 1,
+        rationale: "Fleksibilitas (keterbukaan) adalah ciri ideologi terbuka yang memungkinkan penafsiran dan pengembangan nilai dasar (Dimensi Normatif) ke nilai praktis.",
+        hint: "Keterbukaan terhadap perkembangan."
+    },
+    {
+        id: 183,
+        text: "Peran Pancasila sebagai **filter** dalam menghadapi globalisasi adalah....",
+        options: [
+            "Menolak semua budaya asing.",
+            "Menyaring budaya asing agar tidak bertentangan dengan nilai luhur bangsa.",
+            "Menerima semua budaya asing tanpa seleksi.",
+            "Mengubah nilai Pancasila agar sesuai budaya asing."
+        ],
+        correctAnswer: 1,
+        rationale: "Sebagai filter, Pancasila menyaring pengaruh luar agar tetap sesuai dengan kepribadian bangsa.",
+        hint: "Saringan budaya."
+    },
+    {
+        id: 184,
+        text: "Jika suatu negara memaksakan ideologi tertentu kepada seluruh rakyatnya, maka ideologi tersebut cenderung bersifat....",
+        options: [
+            "Terbuka",
+            "Tertutup (Dogmatis)",
+            "Fleksibel",
+            "Reformatif"
+        ],
+        correctAnswer: 1,
+        rationale: "Ideologi tertutup bersifat memaksakan, dogmatis, dan tidak menerima kritik atau partisipasi publik.",
+        hint: "Memaksa dan kaku."
+    },
+    
+    {
+        id: 185,
+        text: "Ketentuan bahwa 'Negara berdasar atas Ketuhanan Yang Maha Esa' dalam UUD 1945 menunjukkan Indonesia adalah negara yang....",
+        options: [
+            "Sekuler",
+            "Teokratis (Negara Agama)",
+            "Bukan negara agama, tetapi mengakui dan melindungi nilai-nilai religius (Negara Berketuhanan)",
+            "Atheis"
+        ],
+        correctAnswer: 2,
+        rationale: "Indonesia mengakui Ketuhanan dan menjamin kebebasan beragama, namun bukan negara yang didirikan atas dasar agama tertentu (bukan teokrasi).",
+        hint: "Jalan tengah antara sekuler dan teokrasi."
+    },
+    {
+        id: 186,
+        text: "Tindakan yang paling mencerminkan toleransi antarumat beragama adalah....",
+        options: [
+            "Mengikuti ritual ibadah agama lain.",
+            "Tidak peduli terhadap kegiatan agama lain.",
+            "Menghormati dan menjamin kebebasan orang lain menjalankan ibadahnya sesuai keyakinan masing-masing.",
+            "Memaksa orang lain pindah agama."
+        ],
+        correctAnswer: 2,
+        rationale: "Toleransi adalah sikap saling menghormati dan tidak mengganggu peribadatan orang lain.",
+        hint: "Saling menghormati ibadah."
+    },
+    {
+        id: 187,
+        text: "Pasal 29 ayat (2) UUD 1945 menjamin kemerdekaan tiap-tiap penduduk untuk....",
+        options: [
+            "Berpolitik.",
+            "Memeluk agamanya dan beribadah menurut agamanya.",
+            "Mendapatkan pekerjaan.",
+            "Berserikat dan berkumpul."
+        ],
+        correctAnswer: 1,
+        rationale: "Pasal 29 ayat (2) adalah pasal kunci yang menjamin kebebasan beragama di Indonesia.",
+        hint: "Pasal kebebasan beragama."
+    },
+    
+    
+    {
+        id: 188,
+        text: "Sebagai sumber dari segala sumber hukum, Pancasila berkedudukan sebagai norma fundamental negara, yang dalam ilmu hukum disebut....",
+        options: [
+            "Aturan teknis",
+            "Grundnorm (Norma Dasar)",
+            "Peraturan Daerah",
+            "Traktat"
+        ],
+        correctAnswer: 1,
+        rationale: "Grundnorm adalah norma dasar tertinggi yang menjadi landasan dan sumber bagi semua norma hukum di bawahnya.",
+        hint: "Norma Dasar."
+    },
+    {
+        id: 189,
+        text: "Jika sebuah Undang-Undang (UU) yang baru dibuat melanggar prinsip keadilan sosial (Sila 5), maka UU tersebut....",
+        options: [
+            "Tetap berlaku.",
+            "Harus diuji materi ke Mahkamah Konstitusi karena bertentangan dengan UUD 1945 (yang memuat Pancasila).",
+            "Dapat diubah oleh Peraturan Pemerintah.",
+            "Dapat diubah oleh Peraturan Presiden."
+        ],
+        correctAnswer: 1,
+        rationale: "Pengujian UU terhadap UUD 1945 (termasuk nilai-nilai Pancasila) adalah wewenang MK.",
+        hint: "Uji UU terhadap UUD."
+    },
+    {
+        id: 190,
+        text: "Pembukaan UUD 1945 yang memuat Pancasila tidak dapat diubah (kesepakatan amandemen) karena....",
+        options: [
+            "Sudah terlalu tua.",
+            "Merupakan kaidah pokok negara yang fundamental (*Staatsfundamentalnorm*) yang mengandung dasar negara.",
+            "Tidak ada yang berani mengubahnya.",
+            "Terlalu banyak pasal."
+        ],
+        correctAnswer: 1,
+        rationale: "Pembukaan UUD 1945 mengandung Pancasila yang merupakan fundamen berdirinya negara, sehingga mengubahnya sama dengan membubarkan negara.",
+        hint: "Kaidah Pokok Negara."
+    },
+    
+    // MATERI 3: IMPLEMENTASI SILA PANCASILA (Lanjutan)
+    
+    {
+        id: 191,
+        text: "Sikap yang menunjukkan toleransi beragama paling tinggi adalah....",
+        options: [
+            "Membiarkan teman beribadah tanpa mengganggunya.",
+            "Membantu membersihkan tempat ibadah agama lain.",
+            "Mengikuti semua ritual agama lain.",
+            "Meyakini semua agama sama."
+        ],
+        correctAnswer: 1,
+        rationale: "Toleransi tidak hanya sekadar tidak mengganggu, tetapi juga memberikan dukungan atau bantuan (solidaritas) tanpa mencampuradukkan akidah.",
+        hint: "Solidaritas tanpa sinkretisme."
+    },
+    {
+        id: 192,
+        text: "Tindakan yang bertentangan dengan nilai Sila ke-1 di lingkungan sekolah adalah....",
+        options: [
+            "Menghormati teman yang sedang berpuasa.",
+            "Mengolok-olok atau menghina keyakinan agama teman.",
+            "Mengadakan kegiatan bakti sosial.",
+            "Menghargai hasil musyawarah."
+        ],
+        correctAnswer: 1,
+        rationale: "Menghina keyakinan orang lain adalah pelanggaran serius terhadap toleransi dan kemanusiaan.",
+        hint: "Tindakan menghina SARA."
+    },
+    {
+        id: 193,
+        text: "Dalam ranah hukum, Sila Ketuhanan diimplementasikan melalui....",
+        options: [
+            "Pemisahan agama dan negara.",
+            "Diakuinya pernikahan dan perceraian berdasarkan hukum agama.",
+            "Pelarangan semua agama.",
+            "Pencantuman sila ke-1 dalam pasal UUD 1945."
+        ],
+        correctAnswer: 1,
+        rationale: "Hukum positif Indonesia mengatur aspek kehidupan beragama, seperti Pasal 29 UUD 1945 dan undang-undang terkait pernikahan.",
+        hint: "Regulasi kehidupan beragama."
+    },
+    
+    
+    {
+        id: 194,
+        text: "Jika terjadi kasus diskriminasi rasial di lingkungan masyarakat, tindakan yang sesuai dengan Sila ke-2 adalah....",
+        options: [
+            "Membiarkan diskriminasi tersebut.",
+            "Melawan diskriminasi dan menjunjung tinggi persamaan derajat manusia.",
+            "Ikut-ikutan mendiskriminasi.",
+            "Menyelesaikan dengan voting."
+        ],
+        correctAnswer: 1,
+        rationale: "Sila ke-2 menuntut pengakuan dan perlakuan yang sama tanpa memandang latar belakang (persamaan derajat).",
+        hint: "Persamaan derajat dan HAM."
+    },
+    {
+        id: 195,
+        text: "Sikap tidak **semena-mena** terhadap orang lain berarti....",
+        options: [
+            "Melakukan pemerasan dan penindasan.",
+            "Tidak melakukan perbuatan yang dapat merugikan atau menzalimi orang lain.",
+            "Mengutamakan kepentingan pribadi.",
+            "Menjadi pemimpin yang otoriter."
+        ],
+        correctAnswer: 1,
+        rationale: "Tidak semena-mena berarti menjaga martabat orang lain dan menghindari penindasan.",
+        hint: "Menghindari penindasan."
+    },
+    {
+        id: 196,
+        text: "Pengamalan Sila ke-2 di tingkat internasional diwujudkan melalui....",
+        options: [
+            "Ikut campur urusan negara lain.",
+            "Politik luar negeri bebas aktif dan kerjasama kemanusiaan global.",
+            "Memutuskan hubungan dengan semua negara.",
+            "Mendominasi negara berkembang."
+        ],
+        correctAnswer: 1,
+        rationale: "Politik luar negeri bebas aktif adalah wujud dari pengakuan terhadap kemerdekaan dan keadilan antarbangsa (Sila 2).",
+        hint: "Konteks hubungan antarnegara."
+    },
+    
+ 
+    {
+        id: 197,
+        text: "Contoh sikap **cinta tanah air** yang paling relevan dengan konteks ekonomi adalah....",
+        options: [
+            "Memilih pemimpin dari suku sendiri.",
+            "Mengutamakan penggunaan produk dalam negeri daripada produk impor.",
+            "Menolak kerjasama dengan negara tetangga.",
+            "Berbicara dengan bahasa asing."
+        ],
+        correctAnswer: 1,
+        rationale: "Mencintai produk dalam negeri adalah wujud dukungan terhadap ekonomi nasional, yang memperkuat ketahanan bangsa (Persatuan).",
+        hint: "Dukungan pada ekonomi domestik."
+    },
+    {
+        id: 198,
+        text: "Prinsip **Bhinneka Tunggal Ika** dalam Sila ke-3 memiliki fungsi sebagai....",
+        options: [
+            "Alat pemaksa kehendak.",
+            "Dasar untuk menganggap semua sama.",
+            "Menciptakan persatuan dalam keberagaman dan mencegah perpecahan.",
+            "Menghapus identitas daerah."
+        ],
+        correctAnswer: 2,
+        rationale: "Fungsi utama Bhinneka Tunggal Ika adalah menyatukan berbagai keragaman dalam satu bangsa Indonesia.",
+        hint: "Semboyan yang menjembatani perbedaan."
+    },
+    {
+        id: 199,
+        text: "Tindakan yang menunjukkan sikap **rela berkorban** demi kepentingan bangsa dan negara di lingkungan sekolah adalah....",
+        options: [
+            "Menjadi sukarelawan membersihkan lingkungan sekolah saat libur.",
+            "Melaporkan semua teman yang melakukan kesalahan.",
+            "Menyelesaikan PR dengan bantuan orang tua.",
+            "Membolos saat pelajaran."
+        ],
+        correctAnswer: 0,
+        rationale: "Rela berkorban adalah mengesampingkan kepentingan pribadi demi kepentingan umum (sekolah/lingkungan).",
+        hint: "Mendahulukan kepentingan umum."
+    },
+    
+
+    {
+        id: 200,
+        text: "Sila Kerakyatan mengutamakan **musyawarah untuk mufakat**. Jika mufakat tidak tercapai, maka keputusan diambil berdasarkan....",
+        options: [
+            "Suara pemimpin.",
+            "Suara terbanyak (voting) sebagai jalan keluar terakhir.",
+            "Suara minoritas.",
+            "Keputusan ditarik kembali."
+        ],
+        correctAnswer: 1,
+        rationale: "Voting adalah mekanisme terakhir yang sah dalam demokrasi Pancasila untuk menghindari kebuntuan.",
+        hint: "Opsi terakhir dalam rapat."
+    },
+    {
+        id: 201,
+        text: "Ciri khas demokrasi Pancasila yang paling menonjol dalam proses pengambilan keputusan adalah....",
+        options: [
+            "Hanya mengandalkan voting.",
+            "Musyawarah mufakat yang dijiwai oleh **Hikmat Kebijaksanaan**.",
+            "Otoriter dari pemimpin.",
+            "Menolak intervensi rakyat."
+        ],
+        correctAnswer: 1,
+        rationale: "Kata kunci 'Hikmat Kebijaksanaan' membedakan demokrasi Pancasila dari demokrasi Barat.",
+        hint: "Kata kunci yang ada di Sila ke-4."
+    },
+    {
+        id: 202,
+        text: "Dalam rapat OSIS, seorang anggota dilarang mengkritik keras program kerja ketua. Tindakan ini melanggar Sila ke-4 karena....",
+        options: [
+            "Mengabaikan kepentingan umum.",
+            "Membatasi hak berpendapat dan bermusyawarah secara bebas dan bertanggung jawab.",
+            "Melanggar norma agama.",
+            "Tidak ada musyawarah."
+        ],
+        correctAnswer: 1,
+        rationale: "Hak untuk mengemukakan pendapat (kritik) adalah bagian dari hak demokrasi yang wajib dihormati.",
+        hint: "Hak berpendapat."
+    },
+    
+    {
+        id: 203,
+        text: "Tujuan utama pengamalan Sila ke-5 dalam kehidupan bernegara adalah....",
+        options: [
+            "Menciptakan kekayaan yang menumpuk pada satu golongan.",
+            "Mewujudkan kemakmuran dan kesejahteraan yang merata bagi seluruh rakyat Indonesia.",
+            "Menciptakan sistem kasta.",
+            "Menguatkan peran individu."
+        ],
+        correctAnswer: 1,
+        rationale: "Tujuan Keadilan Sosial adalah kesejahteraan yang merata bagi seluruh rakyat.",
+        hint: "Kesejahteraan untuk 'seluruh' rakyat."
+    },
+    {
+        id: 204,
+        text: "Kebijakan pemerintah berupa **subsidi pupuk** bagi petani kecil adalah perwujudan Sila ke-5 karena....",
+        options: [
+            "Menghabiskan anggaran negara.",
+            "Upaya pemerataan dan perlindungan terhadap kelompok ekonomi lemah.",
+            "Tidak sesuai dengan demokrasi.",
+            "Menguntungkan pejabat."
+        ],
+        correctAnswer: 1,
+        rationale: "Subsidi adalah bentuk campur tangan negara untuk mewujudkan pemerataan dan keadilan sosial bagi kelompok yang membutuhkan.",
+        hint: "Bantuan untuk pemerataan."
+    },
+    {
+        id: 205,
+        text: "Perilaku yang paling bertentangan dengan Sila Keadilan Sosial di bidang etos kerja adalah....",
+        options: [
+            "Bekerja keras dan giat.",
+            "Tidak suka bekerja keras dan melakukan pemerasan terhadap orang lain.",
+            "Menjaga keseimbangan hak dan kewajiban.",
+            "Menghargai hasil karya orang lain."
+        ],
+        correctAnswer: 1,
+        rationale: "Tidak suka bekerja keras melanggar etos kerja, sementara pemerasan melanggar keadilan sosial.",
+        hint: "Pemerasan dan kemalasan."
+    },
+    
+    {
+        id: 206,
+        text: "Koperasi merupakan implementasi nyata nilai gotong royong dalam bidang....",
+        options: [
+            "Politik",
+            "Ekonomi",
+            "Sosial",
+            "Hukum"
+        ],
+        correctAnswer: 1,
+        rationale: "Koperasi adalah soko guru ekonomi Indonesia yang berasaskan kekeluargaan/gotong royong (Pasal 33 UUD 1945).",
+        hint: "Soko guru ekonomi."
+    },
+    {
+        id: 207,
+        text: "Gotong royong memiliki sifat dasar yang khas, yaitu....",
+        options: [
+            "Individualis dan kompetitif.",
+            "Bekerja bersama untuk mencapai kepentingan pribadi.",
+            "Bekerja bersama untuk menyelesaikan suatu pekerjaan demi kepentingan umum.",
+            "Sistem upah yang tinggi."
+        ],
+        correctAnswer: 2,
+        rationale: "Gotong royong adalah kerjasama untuk kepentingan bersama (umum), bukan kepentingan pribadi.",
+        hint: "Kerja sama untuk kepentingan umum."
+    },
+    {
+        id: 208,
+        text: "Dalam konteks pertahanan negara, gotong royong diwujudkan melalui....",
+        options: [
+            "Kerjasama militer asing.",
+            "Sistem Pertahanan Keamanan Rakyat Semesta (Sishankamrata).",
+            "Perang individual.",
+            "Pembentukan satu suku bangsa."
+        ],
+        correctAnswer: 1,
+        rationale: "Sishankamrata melibatkan seluruh rakyat dalam upaya pertahanan dan keamanan, mencerminkan gotong royong.",
+        hint: "Pertahanan Rakyat Semesta."
+    },
+    
+    {
+        id: 209,
+        text: "Salah satu dampak negatif globalisasi yang paling mengancam Sila ke-1 dan ke-2 adalah....",
+        options: [
+            "Tingginya harga barang.",
+            "Penyebaran ideologi ateisme dan nihilisme yang menolak moral dan Tuhan.",
+            "Berkurangnya lahan parkir.",
+            "Meningkatnya etos kerja."
+        ],
+        correctAnswer: 1,
+        rationale: "Ateisme bertentangan dengan Ketuhanan YME (Sila 1), sedangkan nihilisme (ketiadaan moral) bertentangan dengan Kemanusiaan yang Adil dan Beradab (Sila 2).",
+        hint: "Ancaman terhadap keyakinan dan moralitas."
+    },
+    {
+        id: 210,
+        text: "Agar tidak tergerus arus globalisasi, bangsa Indonesia harus menguatkan kembali **jati diri** dan **identitas nasional** yang bersumber dari....",
+        options: [
+            "Negara maju.",
+            "Pancasila dan budaya luhur bangsa.",
+            "Peraturan asing.",
+            "Kepentingan individu."
+        ],
+        correctAnswer: 1,
+        rationale: "Jati diri bangsa adalah Pancasila, yang digali dari budaya luhur bangsa sendiri.",
+        hint: "Sumber identitas bangsa."
+    },
+    {
+        id: 211,
+        text: "Sikap yang paling bijak dalam menghadapi masuknya teknologi dan informasi asing adalah....",
+        options: [
+            "Menutup diri dan menolak teknologi.",
+            "Menerima teknologi dan informasi, tetapi menyaringnya agar tidak bertentangan dengan nilai Pancasila.",
+            "Menerima tanpa batas.",
+            "Hanya menggunakan teknologi kuno."
+        ],
+        correctAnswer: 1,
+        rationale: "Ideologi terbuka Pancasila mewajibkan sikap selektif dan kritis, bukan menolak total.",
+        hint: "Sikap selektif."
+    },
+    
+    // MATERI 4: NORMA DAN KONSTITUSI (Lanjutan)
+    
+    {
+        id: 212,
+        text: "Sanksi yang ditimbulkan jika seseorang melanggar **Norma Agama** adalah....",
+        options: [
+            "Penjara",
+            "Denda",
+            "Dosa dan hukuman dari Tuhan di akhirat",
+            "Pengucilan sosial"
+        ],
+        correctAnswer: 2,
+        rationale: "Norma agama berasal dari Tuhan, sehingga sanksinya bersifat vertikal dan transenden (dosa).",
+        hint: "Sanksi vertikal."
+    },
+    {
+        id: 213,
+        text: "Aturan berpakaian rapi saat ke sekolah merupakan perwujudan dari norma....",
+        options: [
+            "Agama",
+            "Hukum",
+            "Kesusilaan",
+            "Kesopanan"
+        ],
+        correctAnswer: 3,
+        rationale: "Tata krama dan etika berpakaian di tempat umum termasuk dalam Norma Kesopanan.",
+        hint: "Tata krama sosial."
+    },
+    {
+        id: 214,
+        text: "Perbedaan mendasar antara Norma Kesusilaan dan Norma Kesopanan terletak pada....",
+        options: [
+            "Asal sumbernya (hati nurani vs kebiasaan masyarakat).",
+            "Sanksinya (denda vs penjara).",
+            "Waktu berlakunya (dulu vs sekarang).",
+            "Cakupan wilayahnya (desa vs kota)."
+        ],
+        correctAnswer: 0,
+        rationale: "Kesusilaan bersumber dari hati nurani, Kesopanan bersumber dari kebiasaan/adat istiadat masyarakat.",
+        hint: "Asal sumber norma."
+    },
+    
+    {
+        id: 215,
+        text: "Budaya taat hukum di sekolah ditunjukkan dengan sikap....",
+        options: [
+            "Membolos saat pelajaran.",
+            "Menghargai dan melaksanakan semua tata tertib sekolah dengan kesadaran penuh.",
+            "Melawan guru.",
+            "Melakukan perundungan."
+        ],
+        correctAnswer: 1,
+        rationale: "Taat hukum berarti melaksanakan aturan yang berlaku dengan kesadaran, termasuk tata tertib sekolah.",
+        hint: "Disiplin di lingkungan sekolah."
+    },
+    {
+        id: 216,
+        text: "Kepatuhan hukum yang didasarkan pada **paksaan dan ancaman hukuman** disebut ketaatan yang bersifat....",
+        options: [
+            "Otonom (sadar diri)",
+            "Formal (terpaksa)",
+            "Material",
+            "Volunter"
+        ],
+        correctAnswer: 1,
+        rationale: "Ketaatan formal didorong oleh faktor eksternal (ancaman/paksaan), sedangkan otonom didorong oleh kesadaran internal.",
+        hint: "Sifat ketaatan yang eksternal."
+    },
+    {
+        id: 217,
+        text: "Mengapa kesadaran hukum lebih efektif daripada paksaan hukum?",
+        options: [
+            "Karena kesadaran menciptakan ketaatan yang tulus dan berkelanjutan tanpa harus selalu diawasi oleh aparat.",
+            "Karena paksaan lebih mahal.",
+            "Karena kesadaran lebih mudah diatur.",
+            "Karena paksaan tidak diperlukan."
+        ],
+        correctAnswer: 0,
+        rationale: "Ketaatan yang bersumber dari kesadaran bersifat berkelanjutan dan stabil, tidak hanya saat ada pengawasan.",
+        hint: "Ketaatan yang internal dan berkelanjutan."
+    },
+    
+    {
+        id: 218,
+        text: "Pancasila (sebagai *Grundnorm*) dan UUD 1945 (sebagai *Basic Law*) adalah satu kesatuan yang tidak terpisahkan. Pancasila merupakan....",
+        options: [
+            "Aturan teknis.",
+            "Pokok pikiran dan sumber nilai yang dijabarkan dalam pasal-pasal UUD 1945.",
+            "Pelengkap UUD 1945.",
+            "Hanya berlaku pada masa lalu."
+        ],
+        correctAnswer: 1,
+        rationale: "Pancasila adalah sumber nilai, jiwa, dan pokok pikiran yang kemudian dijabarkan dalam pasal-pasal UUD 1945.",
+        hint: "Sifatnya sebagai jiwa/roh."
+    },
+    {
+        id: 219,
+        text: "Sila Keadilan Sosial (Sila 5) dijabarkan secara instrumental dalam UUD 1945, terutama pada Pasal....",
+        options: [
+            "28",
+            "29",
+            "31",
+            "33"
+        ],
+        correctAnswer: 3,
+        rationale: "Pasal 33 UUD 1945 mengatur tentang perekonomian nasional dan kemakmuran rakyat, yang merupakan perwujudan Keadilan Sosial.",
+        hint: "Pasal Ekonomi."
+    },
+    {
+        id: 220,
+        text: "Pembukaan UUD 1945 alinea IV memuat empat tujuan nasional. Salah satunya adalah ikut melaksanakan ketertiban dunia yang berdasar pada....",
+        options: [
+            "Demokrasi Liberal.",
+            "Kekuatan Militer.",
+            "Kemerdekaan, perdamaian abadi, dan keadilan sosial.",
+            "Sentralisasi kekuasaan."
+        ],
+        correctAnswer: 2,
+        rationale: "Tujuan negara Indonesia (luar negeri) adalah kemerdekaan, perdamaian abadi, dan keadilan sosial.",
+        hint: "Tujuan eksternal negara."
+    },
+    
+    {
+        id: 221,
+        text: "Peraturan yang kedudukannya berada tepat di bawah Undang-Undang (UU) dalam hierarki adalah....",
+        options: [
+            "Peraturan Presiden (Perpres)",
+            "Peraturan Pemerintah (PP)",
+            "Peraturan Daerah (Perda)",
+            "UUD 1945"
+        ],
+        correctAnswer: 1,
+        rationale: "Urutan setelah UU/Perppu adalah Peraturan Pemerintah (PP).",
+        hint: "Pelaksana UU."
+    },
+    {
+        id: 222,
+        text: "Lembaga negara yang berwenang menetapkan Peraturan Pemerintah (PP) adalah....",
+        options: [
+            "DPR",
+            "MPR",
+            "Presiden",
+            "Mahkamah Agung"
+        ],
+        correctAnswer: 2,
+        rationale: "PP ditetapkan oleh Presiden sebagai peraturan pelaksana UU.",
+        hint: "Eksekutif yang menetapkan PP."
+    },
+    {
+        id: 223,
+        text: "Peraturan Daerah (Perda) Provinsi dibentuk oleh....",
+        options: [
+            "Bupati/Walikota dan DPRD Kab/Kota.",
+            "Gubernur dan DPRD Provinsi.",
+            "Presiden.",
+            "Menteri Dalam Negeri."
+        ],
+        correctAnswer: 1,
+        rationale: "Perda Provinsi dibentuk oleh Kepala Daerah Provinsi (Gubernur) bersama DPRD Provinsi.",
+        hint: "Lembaga di level provinsi."
+    },
+    
+    {
+        id: 224,
+        text: "Jika terjadi kekosongan hukum dan diperlukan aturan yang bersifat segera karena kegentingan yang memaksa, Presiden dapat mengeluarkan....",
+        options: [
+            "Peraturan Presiden (Perpres)",
+            "Peraturan Pemerintah Pengganti Undang-Undang (Perppu)",
+            "Peraturan Pemerintah (PP)",
+            "Peraturan Daerah (Perda)"
+        ],
+        correctAnswer: 1,
+        rationale: "Perppu adalah diskresi Presiden dalam kondisi darurat/kegentingan yang memaksa.",
+        hint: "Kegentingan yang memaksa."
+    },
+    {
+        id: 225,
+        text: "Peraturan Presiden (Perpres) dibuat untuk....",
+        options: [
+            "Mengganti UUD.",
+            "Mengganti UU.",
+            "Menetapkan peraturan teknis untuk melaksanakan UU atau PP.",
+            "Mengatur urusan daerah."
+        ],
+        correctAnswer: 2,
+        rationale: "Perpres mengatur materi teknis pelaksanaan UU atau PP, atau yang diatur berdasarkan kewenangan Presiden.",
+        hint: "Aturan pelaksana teknis."
+    },
+    {
+        id: 226,
+        text: "Perbedaan mendasar antara UU dan Perppu terletak pada....",
+        options: [
+            "Kekuatan hukumnya (sama).",
+            "Substansinya.",
+            "Prosedur pembentukannya (DPR wajib menyetujui Perppu pada sidang berikutnya).",
+            "Yang membuat (Presiden vs MPR)."
+        ],
+        correctAnswer: 2,
+        rationale: "Perppu dibuat oleh Presiden sendirian namun harus disetujui DPR, sementara UU dibuat bersama Presiden dan DPR sejak awal.",
+        hint: "Peran persetujuan DPR."
+    },
+    
+    {
+        id: 227,
+        text: "Asas **Lex Specialis Derogat Legi Generali** berarti....",
+        options: [
+            "Hukum yang baru mengalahkan yang lama.",
+            "Hukum yang lebih tinggi mengalahkan yang rendah.",
+            "Hukum yang khusus (spesialis) mengalahkan hukum yang umum (general).",
+            "Hukum tidak boleh berlaku surut."
+        ],
+        correctAnswer: 2,
+        rationale: "Asas ini digunakan untuk mengatasi konflik norma dengan mengutamakan aturan yang lebih spesifik.",
+        hint: "Khusus vs Umum."
+    },
+    {
+        id: 228,
+        text: "Jika terjadi persengketaan kewenangan antara DPR dan Presiden, penyelesaian sengketa tersebut berada di tangan....",
+        options: [
+            "Mahkamah Agung (MA)",
+            "Mahkamah Konstitusi (MK)",
+            "Komisi Yudisial (KY)",
+            "MPR"
+        ],
+        correctAnswer: 1,
+        rationale: "MK berwenang mengadili sengketa kewenangan antar lembaga negara yang kewenangannya diberikan oleh UUD 1945.",
+        hint: "Sengketa Lembaga Negara."
+    },
+    {
+        id: 229,
+        text: "Dalam asas perundang-undangan, 'Dapat Dilaksanakan' berarti....",
+        options: [
+            "Peraturan harus dibuat oleh DPR.",
+            "Peraturan harus bersifat teknis dan realistis serta tidak bertentangan dengan norma di atasnya.",
+            "Peraturan harus disetujui 100% rakyat.",
+            "Peraturan tidak boleh diubah."
+        ],
+        correctAnswer: 1,
+        rationale: "Asas 'Dapat Dilaksanakan' menuntut aturan harus realistis, efektif, dan tidak bertentangan dengan sistem hukum yang ada.",
+        hint: "Kefektifan dan realistis."
+    },
+    
+    {
+        id: 230,
+        text: "Setelah amandemen UUD 1945, kedaulatan berada di tangan rakyat dan dilaksanakan menurut....",
+        options: [
+            "Presiden",
+            "MPR",
+            "Undang-Undang Dasar",
+            "Dewan Pertimbangan Agung"
+        ],
+        correctAnswer: 2,
+        rationale: "Amandemen Pasal 1 ayat (2) mengubah 'di tangan rakyat dan dilaksanakan sepenuhnya oleh MPR' menjadi 'di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar'.",
+        hint: "Pasal 1 ayat (2) UUD 1945."
+    },
+    {
+        id: 231,
+        text: "Tujuan utama amandemen UUD 1945 yang telah dilakukan sebanyak empat kali adalah....",
+        options: [
+            "Mengganti dasar negara Pancasila.",
+            "Memperkuat sistem checks and balances dan menghapus kekuasaan yang sentralistik (super body) pada MPR.",
+            "Menghapus lembaga-lembaga negara.",
+            "Mengubah bentuk negara menjadi federal."
+        ],
+        correctAnswer: 1,
+        rationale: "Amandemen bertujuan membatasi kekuasaan, memperjelas fungsi lembaga negara, dan menjamin HAM.",
+        hint: "Memperkuat demokrasi dan HAM."
+    },
+    {
+        id: 232,
+        text: "Salah satu kesepakatan dasar dalam amandemen UUD 1945 adalah....",
+        options: [
+            "Mengganti bentuk negara kesatuan.",
+            "Mempertahankan bentuk negara kesatuan Republik Indonesia (NKRI).",
+            "Menghapus Pasal-Pasal HAM.",
+            "Mengubah Pancasila."
+        ],
+        correctAnswer: 1,
+        rationale: "Mempertahankan NKRI adalah salah satu kesepakatan mutlak dalam amandemen UUD 1945.",
+        hint: "Bentuk negara tidak diubah."
+    },
+    
+    {
+        id: 233,
+        text: "Pasal 27 ayat (3) UUD 1945 mengatur tentang kewajiban warga negara dalam....",
+        options: [
+            "Mendapat penghidupan yang layak.",
+            "Membela negara.",
+            "Mendapat pendidikan.",
+            "Beragama."
+        ],
+        correctAnswer: 1,
+        rationale: "Pasal 27 ayat (3) menyatakan, 'Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.'",
+        hint: "Bela negara."
+    },
+    {
+        id: 234,
+        text: "Hak untuk berserikat, berkumpul, dan mengeluarkan pendapat dijamin dalam UUD 1945 Pasal....",
+        options: [
+            "28A",
+            "28B",
+            "28E",
+            "30"
+        ],
+        correctAnswer: 2,
+        rationale: "Pasal 28E mengatur kebebasan sipil, termasuk hak berpendapat dan berserikat.",
+        hint: "Pasal Kebebasan Sipil."
+    },
+    {
+        id: 235,
+        text: "Perlindungan terhadap hak asasi manusia (HAM) dalam UUD 1945 dibatasi oleh....",
+        options: [
+            "Kehendak Presiden.",
+            "Kewajiban menghormati hak orang lain dan ketentuan UU (Pasal 28J).",
+            "Keinginan kelompok mayoritas.",
+            "Norma kesopanan saja."
+        ],
+        correctAnswer: 1,
+        rationale: "Pasal 28J UUD 1945 menegaskan bahwa pelaksanaan HAM dibatasi oleh UU untuk menghormati hak orang lain dan ketertiban umum.",
+        hint: "Pasal Batasan HAM."
+    },
+    {
+        id: 236,
+        text: "Lembaga negara yang berwenang memberikan grasi, amnesti, abolisi, dan rehabilitasi adalah....",
+        options: [
+            "Mahkamah Agung",
+            "DPR",
+            "Presiden",
+            "Komisi Yudisial"
+        ],
+        correctAnswer: 2,
+        rationale: "Hak prerogatif Presiden di bidang yudikatif (Pasal 14 UUD 1945).",
+        hint: "Hak Prerogatif Presiden."
+    },
+    {
+        id: 237,
+        text: "Sikap **etnosentrisme** yang berlebihan dapat mengancam persatuan. Etnosentrisme adalah sikap....",
+        options: [
+            "Mengagungkan budaya asing.",
+            "Menganggap suku sendiri sebagai yang paling unggul dan merendahkan suku lain.",
+            "Menghargai semua budaya.",
+            "Menerima semua perbedaan."
+        ],
+        correctAnswer: 1,
+        rationale: "Etnosentrisme adalah sikap memandang budayanya sendiri sebagai patokan kebenaran, yang berbahaya bagi persatuan.",
+        hint: "Rasisme berbasis suku."
+    },
+    {
+        id: 238,
+        text: "Pasal 1 ayat (1) UUD 1945 menegaskan bahwa bentuk negara Indonesia adalah....",
+        options: [
+            "Federal",
+            "Kesatuan yang berbentuk Republik",
+            "Monarki",
+            "Uni"
+        ],
+        correctAnswer: 1,
+        rationale: "Pasal 1 ayat (1): 'Negara Indonesia ialah Negara Kesatuan, yang berbentuk Republik.'",
+        hint: "NKRI."
+    },
+    {
+        id: 239,
+        text: "Sistem pertahanan dan keamanan Indonesia yang bersifat semesta dan melibatkan seluruh rakyat disebut....",
+        options: [
+            "Trias Politica",
+            "Sistem Pertahanan Keamanan Rakyat Semesta (Sishankamrata)",
+            "Otonomi Daerah",
+            "Desentralisasi"
+        ],
+        correctAnswer: 1,
+        rationale: "Sishankamrata melibatkan TNI, Polri, dan seluruh rakyat sebagai komponen pendukung.",
+        hint: "Keterlibatan seluruh rakyat."
+    },
+    {
+        id: 240,
+        text: "Peran Indonesia dalam mendirikan ASEAN pada 8 Agustus 1967 bertujuan untuk mewujudkan....",
+        options: [
+            "Persaingan ekonomi kawasan.",
+            "Kestabilan dan perdamaian di kawasan Asia Tenggara.",
+            "Pembentukan satu negara serumpun.",
+            "Penolakan terhadap negara Barat."
+        ],
+        correctAnswer: 1,
+        rationale: "Tujuan utama ASEAN adalah kerjasama politik, ekonomi, dan keamanan untuk mencapai stabilitas kawasan.",
+        hint: "Organisasi regional Asia Tenggara."
     }
 ];
